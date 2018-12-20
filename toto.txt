@@ -1,3 +1,4 @@
 git add .
 git commit -m "pour un lessage"
-git push
+git push origin master 
+git status
