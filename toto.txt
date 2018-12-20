@@ -1,2 +1,3 @@
-avbc
-kezjfhzkjdfhzkjdfh
+git add .
+git commit -m "pour un lessage"
+git push
